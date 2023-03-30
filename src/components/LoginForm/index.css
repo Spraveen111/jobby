@@ -1,0 +1,11 @@
+.website {
+  height: 100px;
+  width: 300px;
+}
+.container {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
